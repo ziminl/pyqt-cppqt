@@ -1,1 +1,1 @@
-# pyqt-c-qt
+# pyqt and c++qt
