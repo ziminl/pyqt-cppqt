@@ -3,4 +3,5 @@
 
 # windows
 https://www.qt.io/download-dev
+
 kali has preinstalled
